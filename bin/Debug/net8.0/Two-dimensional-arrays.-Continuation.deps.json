@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Two-dimensional-arrays.-Continuation/1.0.0": {
+        "runtime": {
+          "Two-dimensional-arrays.-Continuation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Two-dimensional-arrays.-Continuation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
