@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Рабочий стол\\С#\\Homework\\task 54\\Two-dimensional-arrays.-Continuation\\Two-dimensional-arrays.-Continuation.csproj": {}
+    "D:\\Рабочий стол\\С#\\Homework\\task 56\\Two-dimensional-arrays.-Continuation\\Two-dimensional-arrays.-Continuation.csproj": {}
   },
   "projects": {
-    "D:\\Рабочий стол\\С#\\Homework\\task 54\\Two-dimensional-arrays.-Continuation\\Two-dimensional-arrays.-Continuation.csproj": {
+    "D:\\Рабочий стол\\С#\\Homework\\task 56\\Two-dimensional-arrays.-Continuation\\Two-dimensional-arrays.-Continuation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Рабочий стол\\С#\\Homework\\task 54\\Two-dimensional-arrays.-Continuation\\Two-dimensional-arrays.-Continuation.csproj",
+        "projectUniqueName": "D:\\Рабочий стол\\С#\\Homework\\task 56\\Two-dimensional-arrays.-Continuation\\Two-dimensional-arrays.-Continuation.csproj",
         "projectName": "Two-dimensional-arrays.-Continuation",
-        "projectPath": "D:\\Рабочий стол\\С#\\Homework\\task 54\\Two-dimensional-arrays.-Continuation\\Two-dimensional-arrays.-Continuation.csproj",
+        "projectPath": "D:\\Рабочий стол\\С#\\Homework\\task 56\\Two-dimensional-arrays.-Continuation\\Two-dimensional-arrays.-Continuation.csproj",
         "packagesPath": "C:\\Users\\Иоанн\\.nuget\\packages\\",
-        "outputPath": "D:\\Рабочий стол\\С#\\Homework\\task 54\\Two-dimensional-arrays.-Continuation\\obj\\",
+        "outputPath": "D:\\Рабочий стол\\С#\\Homework\\task 56\\Two-dimensional-arrays.-Continuation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Иоанн\\AppData\\Roaming\\NuGet\\NuGet.Config"

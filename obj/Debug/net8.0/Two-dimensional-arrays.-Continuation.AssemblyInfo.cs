@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Two-dimensional-arrays.-Continuation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d774ef4b0cba425a687658e555e08cc1587bca69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19b775467244877eeeb9eb3bf27362da375d4bc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Two-dimensional-arrays.-Continuation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Two-dimensional-arrays.-Continuation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
